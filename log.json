@@ -1,6 +1,6 @@
 {
-"fud":false,
+"fud":"false",
 "n" : "test 1",
-"p" : 1 ,
-"ne" : false
+"p" : "1" ,
+"ne" : "false"
 }
